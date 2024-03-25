@@ -1,7 +1,6 @@
 FROM ruby:alpine
 
-# Name of maintiner
-MAINTINER DAVINDER PAL "dpsangwal@gmail.com"
+
 
 # Creating Application folder in container
 RUN mkdir -p /app
